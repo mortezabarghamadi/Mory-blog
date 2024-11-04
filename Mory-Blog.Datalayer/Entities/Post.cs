@@ -6,26 +6,31 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Mory_Blog.Datalayer.Entities
+namespace CodeYad_Blog.DataLayer.Entities
 {
-    internal class Post
+    public class Post
     {
         [Key]
         public int Id { get; set; }
         public int UserId { get; set; }
         public int CategoryId { get; set; }
         [Required]
+        [MaxLength(300)]
         public string Title { get; set; }
         [Required]
-        public string Description { get; set; }
-        public string visit { get; set; }
+        [MaxLength(400)]
+        public string Slug { get; set; }
         [Required]
-        public string slug { get; set; }
+        public string Description { get; set; }
+        public int Visit { get; set; }
+
+
         [ForeignKey("UserId")]
         public User User { get; set; }
+
         [ForeignKey("CategoryId")]
         public Category Category { get; set; }
 
         public ICollection<PostComment> PostComments { get; set; }
-        }
+    }
 }

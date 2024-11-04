@@ -5,9 +5,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Mory_Blog.Datalayer.Entities
+namespace CodeYad_Blog.DataLayer.Entities
 {
-    internal class Category
+    public class Category
     {
         [Key]
         public int Id { get; set; }
@@ -17,6 +17,8 @@ namespace Mory_Blog.Datalayer.Entities
         public string Slug { get; set; }
         public string MetaTag { get; set; }
         public string MetaDescription { get; set; }
+
+
         public ICollection<Post> Posts { get; set; }
     }
 }

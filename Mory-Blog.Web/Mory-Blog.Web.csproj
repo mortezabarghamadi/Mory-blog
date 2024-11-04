@@ -7,4 +7,16 @@
     <RootNamespace>Mory_Blog.Web</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.35">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Mory-Blog.CoreLayeer\Mory-Blog.CoreLayeer.csproj" />
+    <ProjectReference Include="..\Mory-Blog.Datalayer\Mory-Blog.Datalayer.csproj" />
+  </ItemGroup>
+
 </Project>

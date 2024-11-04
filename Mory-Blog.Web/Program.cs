@@ -1,8 +1,15 @@
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
+using Mory_Blog.Datalayer;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddRazorPages();
-
+builder.Services.AddDbContext<BlogContext>(option =>
+{
+    option.UseSqlServer("Server=.;Database=CodeYad_Blog;Integrated Security=true;MultipleActiveResultSets=true");
+});
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

@@ -6,9 +6,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Mory_Blog.Datalayer.Entities
+namespace CodeYad_Blog.DataLayer.Entities
 {
-    internal class PostComment
+    public class PostComment
     {
         [Key]
         public int Id { get; set; }
@@ -16,8 +16,10 @@ namespace Mory_Blog.Datalayer.Entities
         public int PostId { get; set; }
         [Required]
         public string Text { get; set; }
+
         [ForeignKey("PostId")]
         public Post Post { get; set; }
+
         [ForeignKey("UserId")]
         public User User { get; set; }
     }

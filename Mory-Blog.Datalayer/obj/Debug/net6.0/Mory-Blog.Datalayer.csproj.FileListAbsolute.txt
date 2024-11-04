@@ -1,0 +1,15 @@
+D:\posheh darsi\c#\Mory-Blog\Mory-Blog.Datalayer\bin\Debug\net6.0\Mory-Blog.Datalayer.deps.json
+D:\posheh darsi\c#\Mory-Blog\Mory-Blog.Datalayer\bin\Debug\net6.0\Mory-Blog.Datalayer.runtimeconfig.json
+D:\posheh darsi\c#\Mory-Blog\Mory-Blog.Datalayer\bin\Debug\net6.0\Mory-Blog.Datalayer.dll
+D:\posheh darsi\c#\Mory-Blog\Mory-Blog.Datalayer\bin\Debug\net6.0\Mory-Blog.Datalayer.pdb
+D:\posheh darsi\c#\Mory-Blog\Mory-Blog.Datalayer\obj\Debug\net6.0\Mory-Blog.Datalayer.csproj.AssemblyReference.cache
+D:\posheh darsi\c#\Mory-Blog\Mory-Blog.Datalayer\obj\Debug\net6.0\Mory-Blog.Datalayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\posheh darsi\c#\Mory-Blog\Mory-Blog.Datalayer\obj\Debug\net6.0\Mory-Blog.Datalayer.AssemblyInfoInputs.cache
+D:\posheh darsi\c#\Mory-Blog\Mory-Blog.Datalayer\obj\Debug\net6.0\Mory-Blog.Datalayer.AssemblyInfo.cs
+D:\posheh darsi\c#\Mory-Blog\Mory-Blog.Datalayer\obj\Debug\net6.0\Mory-Blog.Datalayer.csproj.CoreCompileInputs.cache
+D:\posheh darsi\c#\Mory-Blog\Mory-Blog.Datalayer\obj\Debug\net6.0\Mory-Blog.Datalayer.sourcelink.json
+D:\posheh darsi\c#\Mory-Blog\Mory-Blog.Datalayer\obj\Debug\net6.0\Mory-Blog.Datalayer.dll
+D:\posheh darsi\c#\Mory-Blog\Mory-Blog.Datalayer\obj\Debug\net6.0\refint\Mory-Blog.Datalayer.dll
+D:\posheh darsi\c#\Mory-Blog\Mory-Blog.Datalayer\obj\Debug\net6.0\Mory-Blog.Datalayer.pdb
+D:\posheh darsi\c#\Mory-Blog\Mory-Blog.Datalayer\obj\Debug\net6.0\Mory-Blog.Datalayer.genruntimeconfig.cache
+D:\posheh darsi\c#\Mory-Blog\Mory-Blog.Datalayer\obj\Debug\net6.0\ref\Mory-Blog.Datalayer.dll

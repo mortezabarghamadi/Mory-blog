@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mory-Blog.CoreLayeer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c6a95c514a57cbf3fa370141db5366a9f09466f8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mory-Blog.CoreLayeer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mory-Blog.CoreLayeer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
