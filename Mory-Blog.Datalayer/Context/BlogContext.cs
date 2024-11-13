@@ -8,7 +8,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace Mory_Blog.Datalayer.Context
 {
-    internal class BlogContext:DbContext
+    public class BlogContext:DbContext
     {
         public BlogContext(DbContextOptions<BlogContext> options):base(options)
         {
@@ -22,9 +22,9 @@ namespace Mory_Blog.Datalayer.Context
     }
 }
 
-namespace Mory_Blog.Datalayer
-{
-    public class BlogContext
-    {
-    }
-}
+//namespace Mory_Blog.Datalayer
+//{
+//    public class BlogContext
+//    {
+//    }
+//}

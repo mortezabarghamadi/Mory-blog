@@ -1,6 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Mory_Blog.Datalayer;
+using Mory_Blog.Datalayer.Context;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -8,7 +9,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddRazorPages();
 builder.Services.AddDbContext<BlogContext>(option =>
 {
-    option.UseSqlServer("Server=.;Database=CodeYad_Blog;Integrated Security=true;MultipleActiveResultSets=true");
+    option.UseSqlServer(builder.Configuration.GetConnectionString("Defualt"));
 });
 var app = builder.Build();
 

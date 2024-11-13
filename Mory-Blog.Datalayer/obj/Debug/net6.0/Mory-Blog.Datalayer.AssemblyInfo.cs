@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mory-Blog.Datalayer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c6a95c514a57cbf3fa370141db5366a9f09466f8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f4bc7512f3bc9061149b836667af6004bd742a7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mory-Blog.Datalayer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mory-Blog.Datalayer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

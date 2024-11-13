@@ -10,3 +10,7 @@ D:\posheh darsi\c#\Mory-Blog\Mory-Blog.CoreLayeer\obj\Debug\net6.0\Mory-Blog.Cor
 D:\posheh darsi\c#\Mory-Blog\Mory-Blog.CoreLayeer\obj\Debug\net6.0\refint\Mory-Blog.CoreLayeer.dll
 D:\posheh darsi\c#\Mory-Blog\Mory-Blog.CoreLayeer\obj\Debug\net6.0\Mory-Blog.CoreLayeer.pdb
 D:\posheh darsi\c#\Mory-Blog\Mory-Blog.CoreLayeer\obj\Debug\net6.0\ref\Mory-Blog.CoreLayeer.dll
+D:\posheh darsi\c#\Mory-Blog\Mory-Blog.CoreLayeer\bin\Debug\net6.0\Mory-Blog.Datalayer.dll
+D:\posheh darsi\c#\Mory-Blog\Mory-Blog.CoreLayeer\bin\Debug\net6.0\Mory-Blog.Datalayer.pdb
+D:\posheh darsi\c#\Mory-Blog\Mory-Blog.CoreLayeer\obj\Debug\net6.0\Mory-Blog.CoreLayeer.csproj.AssemblyReference.cache
+D:\posheh darsi\c#\Mory-Blog\Mory-Blog.CoreLayeer\obj\Debug\net6.0\Mory-Blo.F0EA4193.Up2Date

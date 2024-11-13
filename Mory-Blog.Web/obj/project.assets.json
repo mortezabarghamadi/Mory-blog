@@ -774,6 +774,9 @@
       "Mory-Blog.CoreLayeer/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Mory-Blog.Datalayer": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/Mory-Blog.CoreLayeer.dll": {}
         },
@@ -2005,8 +2008,7 @@
   "projectFileDependencyGroups": {
     "net6.0": [
       "Microsoft.EntityFrameworkCore.Design >= 6.0.35",
-      "Mory-Blog.CoreLayeer >= 1.0.0",
-      "Mory-Blog.Datalayer >= 1.0.0"
+      "Mory-Blog.CoreLayeer >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -2044,9 +2046,6 @@
           "projectReferences": {
             "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.CoreLayeer\\Mory-Blog.CoreLayeer.csproj": {
               "projectPath": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.CoreLayeer\\Mory-Blog.CoreLayeer.csproj"
-            },
-            "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Datalayer\\Mory-Blog.Datalayer.csproj": {
-              "projectPath": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Datalayer\\Mory-Blog.Datalayer.csproj"
             }
           }
         }

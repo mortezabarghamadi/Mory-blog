@@ -12,4 +12,8 @@
     <Folder Include="Sevices\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Mory-Blog.Datalayer\Mory-Blog.Datalayer.csproj" />
+  </ItemGroup>
+
 </Project>

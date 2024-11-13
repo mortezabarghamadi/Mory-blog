@@ -4,13 +4,15 @@ using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Microsoft.EntityFrameworkCore.Metadata.Builders;
+using Mory_Blog.Datalayer.Entities.BaseEntity;
 
 namespace CodeYad_Blog.DataLayer.Entities
 {
-    public class User
+    public class User : BaseEntity
     {
-        [Key]
-        public int Id { get; set; }
+        //[Key]
+        //public int Id { get; set; }
         [Required]
         public string UserName { get; set; }
         public string FullName { get; set; }
@@ -28,5 +30,13 @@ namespace CodeYad_Blog.DataLayer.Entities
         Admin,
         User,
         Writer
+    }
+
+    public class UserConfigurations : BaseEntityConfigurations<User>
+    {
+        public override void Configure(EntityTypeBuilder<User> builder)
+        {
+            base.Configure(builder);
+        }
     }
 }

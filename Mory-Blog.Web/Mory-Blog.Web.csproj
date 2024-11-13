@@ -16,7 +16,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Mory-Blog.CoreLayeer\Mory-Blog.CoreLayeer.csproj" />
-    <ProjectReference Include="..\Mory-Blog.Datalayer\Mory-Blog.Datalayer.csproj" />
   </ItemGroup>
 
 </Project>
