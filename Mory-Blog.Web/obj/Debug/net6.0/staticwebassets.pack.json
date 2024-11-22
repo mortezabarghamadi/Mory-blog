@@ -1,20 +1,348 @@
 {
   "Files": [
     {
-      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Mory-Blog.Web.bundle.scp.css",
-      "PackagePath": "staticwebassets\\Mory-Blog.Web.bundle.scp.css"
+      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\authLayout\\css\\main.css",
+      "PackagePath": "staticwebassets\\authLayout\\css\\main.css"
     },
     {
-      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\css\\site.css",
-      "PackagePath": "staticwebassets\\css\\site.css"
+      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\css\\colors\\cyan.css",
+      "PackagePath": "staticwebassets\\css\\colors\\cyan.css"
+    },
+    {
+      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\css\\colors\\orange.css",
+      "PackagePath": "staticwebassets\\css\\colors\\orange.css"
+    },
+    {
+      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\css\\colors\\pink.css",
+      "PackagePath": "staticwebassets\\css\\colors\\pink.css"
+    },
+    {
+      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\css\\colors\\red.css",
+      "PackagePath": "staticwebassets\\css\\colors\\red.css"
+    },
+    {
+      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\css\\colors\\violet.css",
+      "PackagePath": "staticwebassets\\css\\colors\\violet.css"
+    },
+    {
+      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\css\\font-icons.css",
+      "PackagePath": "staticwebassets\\css\\font-icons.css"
+    },
+    {
+      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\css\\owl-carousel\\AjaxLoader.gif",
+      "PackagePath": "staticwebassets\\css\\owl-carousel\\AjaxLoader.gif"
+    },
+    {
+      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\css\\owl-carousel\\Thumbs.db",
+      "PackagePath": "staticwebassets\\css\\owl-carousel\\Thumbs.db"
+    },
+    {
+      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\css\\owl-carousel\\grabbing.png",
+      "PackagePath": "staticwebassets\\css\\owl-carousel\\grabbing.png"
+    },
+    {
+      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\css\\style.css.map"
     },
     {
       "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\js\\site.js",
-      "PackagePath": "staticwebassets\\js\\site.js"
+      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\fonts\\IRANSans\\eot\\IRANSansWeb.eot",
+      "PackagePath": "staticwebassets\\fonts\\IRANSans\\eot\\IRANSansWeb.eot"
+    },
+    {
+      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\fonts\\IRANSans\\eot\\IRANSansWeb_Black.eot",
+      "PackagePath": "staticwebassets\\fonts\\IRANSans\\eot\\IRANSansWeb_Black.eot"
+    },
+    {
+      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\fonts\\IRANSans\\eot\\IRANSansWeb_Bold.eot",
+      "PackagePath": "staticwebassets\\fonts\\IRANSans\\eot\\IRANSansWeb_Bold.eot"
+    },
+    {
+      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\fonts\\IRANSans\\eot\\IRANSansWeb_Light.eot",
+      "PackagePath": "staticwebassets\\fonts\\IRANSans\\eot\\IRANSansWeb_Light.eot"
+    },
+    {
+      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\fonts\\IRANSans\\eot\\IRANSansWeb_Medium.eot",
+      "PackagePath": "staticwebassets\\fonts\\IRANSans\\eot\\IRANSansWeb_Medium.eot"
+    },
+    {
+      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\fonts\\IRANSans\\eot\\IRANSansWeb_UltraLight.eot",
+      "PackagePath": "staticwebassets\\fonts\\IRANSans\\eot\\IRANSansWeb_UltraLight.eot"
+    },
+    {
+      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\fonts\\IRANSans\\ttf\\IRANSansWeb.ttf",
+      "PackagePath": "staticwebassets\\fonts\\IRANSans\\ttf\\IRANSansWeb.ttf"
+    },
+    {
+      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\fonts\\IRANSans\\ttf\\IRANSansWeb_Black.ttf",
+      "PackagePath": "staticwebassets\\fonts\\IRANSans\\ttf\\IRANSansWeb_Black.ttf"
+    },
+    {
+      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\fonts\\IRANSans\\ttf\\IRANSansWeb_Bold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\IRANSans\\ttf\\IRANSansWeb_Bold.ttf"
+    },
+    {
+      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\fonts\\IRANSans\\ttf\\IRANSansWeb_Light.ttf",
+      "PackagePath": "staticwebassets\\fonts\\IRANSans\\ttf\\IRANSansWeb_Light.ttf"
+    },
+    {
+      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\fonts\\IRANSans\\ttf\\IRANSansWeb_Medium.ttf",
+      "PackagePath": "staticwebassets\\fonts\\IRANSans\\ttf\\IRANSansWeb_Medium.ttf"
+    },
+    {
+      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\fonts\\IRANSans\\ttf\\IRANSansWeb_UltraLight.ttf",
+      "PackagePath": "staticwebassets\\fonts\\IRANSans\\ttf\\IRANSansWeb_UltraLight.ttf"
+    },
+    {
+      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\fonts\\IRANSans\\woff2\\IRANSansWeb.woff2",
+      "PackagePath": "staticwebassets\\fonts\\IRANSans\\woff2\\IRANSansWeb.woff2"
+    },
+    {
+      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\fonts\\IRANSans\\woff2\\IRANSansWeb_Black.woff2",
+      "PackagePath": "staticwebassets\\fonts\\IRANSans\\woff2\\IRANSansWeb_Black.woff2"
+    },
+    {
+      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\fonts\\IRANSans\\woff2\\IRANSansWeb_Bold.woff2",
+      "PackagePath": "staticwebassets\\fonts\\IRANSans\\woff2\\IRANSansWeb_Bold.woff2"
+    },
+    {
+      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\fonts\\IRANSans\\woff2\\IRANSansWeb_Light.woff2",
+      "PackagePath": "staticwebassets\\fonts\\IRANSans\\woff2\\IRANSansWeb_Light.woff2"
+    },
+    {
+      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\fonts\\IRANSans\\woff2\\IRANSansWeb_Medium.woff2",
+      "PackagePath": "staticwebassets\\fonts\\IRANSans\\woff2\\IRANSansWeb_Medium.woff2"
+    },
+    {
+      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\fonts\\IRANSans\\woff2\\IRANSansWeb_UltraLight.woff2",
+      "PackagePath": "staticwebassets\\fonts\\IRANSans\\woff2\\IRANSansWeb_UltraLight.woff2"
+    },
+    {
+      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\fonts\\IRANSans\\woff\\IRANSansWeb.woff",
+      "PackagePath": "staticwebassets\\fonts\\IRANSans\\woff\\IRANSansWeb.woff"
+    },
+    {
+      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\fonts\\IRANSans\\woff\\IRANSansWeb_Black.woff",
+      "PackagePath": "staticwebassets\\fonts\\IRANSans\\woff\\IRANSansWeb_Black.woff"
+    },
+    {
+      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\fonts\\IRANSans\\woff\\IRANSansWeb_Bold.woff",
+      "PackagePath": "staticwebassets\\fonts\\IRANSans\\woff\\IRANSansWeb_Bold.woff"
+    },
+    {
+      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\fonts\\IRANSans\\woff\\IRANSansWeb_Light.woff",
+      "PackagePath": "staticwebassets\\fonts\\IRANSans\\woff\\IRANSansWeb_Light.woff"
+    },
+    {
+      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\fonts\\IRANSans\\woff\\IRANSansWeb_Medium.woff",
+      "PackagePath": "staticwebassets\\fonts\\IRANSans\\woff\\IRANSansWeb_Medium.woff"
+    },
+    {
+      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\fonts\\IRANSans\\woff\\IRANSansWeb_UltraLight.woff",
+      "PackagePath": "staticwebassets\\fonts\\IRANSans\\woff\\IRANSansWeb_UltraLight.woff"
+    },
+    {
+      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\fonts\\ui-icons.eot",
+      "PackagePath": "staticwebassets\\fonts\\ui-icons.eot"
+    },
+    {
+      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\fonts\\ui-icons.svg",
+      "PackagePath": "staticwebassets\\fonts\\ui-icons.svg"
+    },
+    {
+      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\fonts\\ui-icons.ttf",
+      "PackagePath": "staticwebassets\\fonts\\ui-icons.ttf"
+    },
+    {
+      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\fonts\\ui-icons.woff",
+      "PackagePath": "staticwebassets\\fonts\\ui-icons.woff"
+    },
+    {
+      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\fonts\\ui-icons.woff2",
+      "PackagePath": "staticwebassets\\fonts\\ui-icons.woff2"
+    },
+    {
+      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\img\\Thumbs.db",
+      "PackagePath": "staticwebassets\\img\\Thumbs.db"
+    },
+    {
+      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\img\\apple-icon.png",
+      "PackagePath": "staticwebassets\\img\\apple-icon.png"
+    },
+    {
+      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\img\\content\\Thumbs.db",
+      "PackagePath": "staticwebassets\\img\\content\\Thumbs.db"
+    },
+    {
+      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\img\\content\\about\\about_bg.jpg",
+      "PackagePath": "staticwebassets\\img\\content\\about\\about_bg.jpg"
+    },
+    {
+      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\img\\content\\cinema-banner.jpg",
+      "PackagePath": "staticwebassets\\img\\content\\cinema-banner.jpg"
+    },
+    {
+      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\img\\content\\mag-1.jpg",
+      "PackagePath": "staticwebassets\\img\\content\\mag-1.jpg"
+    },
+    {
+      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\img\\content\\placeholder_300.jpg",
+      "PackagePath": "staticwebassets\\img\\content\\placeholder_300.jpg"
+    },
+    {
+      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\img\\content\\placeholder_300_600.jpg",
+      "PackagePath": "staticwebassets\\img\\content\\placeholder_300_600.jpg"
+    },
+    {
+      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\img\\content\\placeholder_336.jpg",
+      "PackagePath": "staticwebassets\\img\\content\\placeholder_336.jpg"
+    },
+    {
+      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\img\\content\\placeholder_728.jpg",
+      "PackagePath": "staticwebassets\\img\\content\\placeholder_728.jpg"
+    },
+    {
+      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\img\\content\\placeholder_970.jpg",
+      "PackagePath": "staticwebassets\\img\\content\\placeholder_970.jpg"
+    },
+    {
+      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\img\\content\\placeholder_970_1.jpg",
+      "PackagePath": "staticwebassets\\img\\content\\placeholder_970_1.jpg"
+    },
+    {
+      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\img\\content\\single\\Huawei-Mate-X-4-610x380.jpg",
+      "PackagePath": "staticwebassets\\img\\content\\single\\Huawei-Mate-X-4-610x380.jpg"
+    },
+    {
+      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\img\\content\\single\\Huawei-Mate-X-6.jpg",
+      "PackagePath": "staticwebassets\\img\\content\\single\\Huawei-Mate-X-6.jpg"
+    },
+    {
+      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\img\\content\\thumb\\post-1.jpg",
+      "PackagePath": "staticwebassets\\img\\content\\thumb\\post-1.jpg"
+    },
+    {
+      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\img\\content\\thumb\\post-2-2.jpg",
+      "PackagePath": "staticwebassets\\img\\content\\thumb\\post-2-2.jpg"
+    },
+    {
+      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\img\\content\\thumb\\post-2.jpg",
+      "PackagePath": "staticwebassets\\img\\content\\thumb\\post-2.jpg"
+    },
+    {
+      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\img\\content\\thumb\\post-3.jpg",
+      "PackagePath": "staticwebassets\\img\\content\\thumb\\post-3.jpg"
+    },
+    {
+      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\img\\content\\thumb\\post-4.jpg",
+      "PackagePath": "staticwebassets\\img\\content\\thumb\\post-4.jpg"
+    },
+    {
+      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\img\\content\\thumb\\post-5-2.jpg",
+      "PackagePath": "staticwebassets\\img\\content\\thumb\\post-5-2.jpg"
+    },
+    {
+      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\img\\content\\thumb\\post-5.jpg",
+      "PackagePath": "staticwebassets\\img\\content\\thumb\\post-5.jpg"
+    },
+    {
+      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\img\\content\\thumb\\post-6.jpg",
+      "PackagePath": "staticwebassets\\img\\content\\thumb\\post-6.jpg"
+    },
+    {
+      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\img\\content\\thumb\\post-7.jpg",
+      "PackagePath": "staticwebassets\\img\\content\\thumb\\post-7.jpg"
+    },
+    {
+      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\img\\content\\thumb\\post-8.jpg",
+      "PackagePath": "staticwebassets\\img\\content\\thumb\\post-8.jpg"
+    },
+    {
+      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\img\\content\\thumb\\post-9.jpg",
+      "PackagePath": "staticwebassets\\img\\content\\thumb\\post-9.jpg"
+    },
+    {
+      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\img\\default-avatar.png",
+      "PackagePath": "staticwebassets\\img\\default-avatar.png"
+    },
+    {
+      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\img\\dropdown.png",
+      "PackagePath": "staticwebassets\\img\\dropdown.png"
+    },
+    {
+      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\img\\empty.png",
+      "PackagePath": "staticwebassets\\img\\empty.png"
+    },
+    {
+      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\img\\favicon.png"
+    },
+    {
+      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\img\\map_pin.png",
+      "PackagePath": "staticwebassets\\img\\map_pin.png"
+    },
+    {
+      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\js\\easing.min.js",
+      "PackagePath": "staticwebassets\\js\\easing.min.js"
+    },
+    {
+      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\js\\flickity.pkgd.min.js",
+      "PackagePath": "staticwebassets\\js\\flickity.pkgd.min.js"
+    },
+    {
+      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\js\\gmap3.min.js",
+      "PackagePath": "staticwebassets\\js\\gmap3.min.js"
+    },
+    {
+      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\js\\jquery.appear.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.appear.min.js"
+    },
+    {
+      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\js\\jquery.newsTicker.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.newsTicker.min.js"
+    },
+    {
+      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\js\\jquery.sticky-kit.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.sticky-kit.min.js"
+    },
+    {
+      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\js\\lazysizes.min.js",
+      "PackagePath": "staticwebassets\\js\\lazysizes.min.js"
+    },
+    {
+      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\js\\modernizr.min.js",
+      "PackagePath": "staticwebassets\\js\\modernizr.min.js"
+    },
+    {
+      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\js\\owl-carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl-carousel.min.js"
+    },
+    {
+      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\js\\scripts.js"
+    },
+    {
+      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\js\\twitterFetcher_min.js",
+      "PackagePath": "staticwebassets\\js\\twitterFetcher_min.js"
     },
     {
       "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
@@ -37,22 +365,6 @@
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
-    },
-    {
-      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
-    },
-    {
-      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
-    },
-    {
-      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
-    },
-    {
       "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
@@ -67,54 +379,6 @@
     {
       "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
-    },
-    {
-      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
-    },
-    {
-      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
-    },
-    {
-      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
-    },
-    {
-      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
-    },
-    {
-      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
-    },
-    {
-      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
-    },
-    {
-      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
-    },
-    {
-      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
-    },
-    {
-      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
-    },
-    {
-      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
-    },
-    {
-      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
-    },
-    {
-      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
       "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
@@ -133,22 +397,6 @@
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
-    },
-    {
-      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
-    },
-    {
-      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
-    },
-    {
-      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
-    },
-    {
       "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
@@ -163,22 +411,6 @@
     {
       "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
-    },
-    {
-      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
-    },
-    {
-      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
-    },
-    {
-      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
-    },
-    {
-      "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
       "Id": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",

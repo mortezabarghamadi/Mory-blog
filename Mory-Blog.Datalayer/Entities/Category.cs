@@ -11,15 +11,15 @@ namespace CodeYad_Blog.DataLayer.Entities
 {
     public class Category : BaseEntity
     {
-        //[Key]
-        //public int Id { get; set; }
-        [Required]
+        
         public string Title { get; set; }
-        [Required]
         public string Slug { get; set; }
         public string MetaTag { get; set; }
         public string MetaDescription { get; set; }
+                
 
+
+        #region relatiion
 
         public ICollection<Post> Posts { get; set; }
     }
@@ -32,3 +32,5 @@ namespace CodeYad_Blog.DataLayer.Entities
         }
     }
 }
+
+#endregion

@@ -63,9 +63,7 @@ D:\posheh darsi\c#\Mory-Blog\Mory-Blog.Web\obj\Debug\net6.0\staticwebassets\msbu
 D:\posheh darsi\c#\Mory-Blog\Mory-Blog.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Mory-Blog.Web.props
 D:\posheh darsi\c#\Mory-Blog\Mory-Blog.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Mory-Blog.Web.props
 D:\posheh darsi\c#\Mory-Blog\Mory-Blog.Web\obj\Debug\net6.0\staticwebassets.pack.json
-D:\posheh darsi\c#\Mory-Blog\Mory-Blog.Web\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
 D:\posheh darsi\c#\Mory-Blog\Mory-Blog.Web\obj\Debug\net6.0\scopedcss\bundle\Mory-Blog.Web.styles.css
-D:\posheh darsi\c#\Mory-Blog\Mory-Blog.Web\obj\Debug\net6.0\scopedcss\projectbundle\Mory-Blog.Web.bundle.scp.css
 D:\posheh darsi\c#\Mory-Blog\Mory-Blog.Web\obj\Debug\net6.0\Mory-Blo.04454FBD.Up2Date
 D:\posheh darsi\c#\Mory-Blog\Mory-Blog.Web\obj\Debug\net6.0\Mory-Blog.Web.dll
 D:\posheh darsi\c#\Mory-Blog\Mory-Blog.Web\obj\Debug\net6.0\refint\Mory-Blog.Web.dll

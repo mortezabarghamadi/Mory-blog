@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
@@ -16,6 +16,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Mory-Blog.CoreLayeer\Mory-Blog.CoreLayeer.csproj" />
+    <ProjectReference Include="..\Mory-Blog.Datalayer\Mory-Blog.Datalayer.csproj" />
   </ItemGroup>
 
 </Project>

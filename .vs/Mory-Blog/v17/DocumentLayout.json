@@ -3,36 +3,106 @@
   "WorkspaceRootPath": "D:\\posheh darsi\\c#\\Mory-Blog\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5BE37129-4B32-4C40-9B32-610B14712878}|Mory-Blog.Datalayer\\Mory-Blog.Datalayer.csproj|d:\\posheh darsi\\c#\\mory-blog\\mory-blog.datalayer\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BE37129-4B32-4C40-9B32-610B14712878}|Mory-Blog.Datalayer\\Mory-Blog.Datalayer.csproj|solutionrelative:mory-blog.datalayer\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{31F77ACD-AE8A-4514-8315-64F0577F0517}|Mory-Blog.CoreLayeer\\Mory-Blog.CoreLayeer.csproj|d:\\posheh darsi\\c#\\mory-blog\\mory-blog.corelayeer\\sevices\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31F77ACD-AE8A-4514-8315-64F0577F0517}|Mory-Blog.CoreLayeer\\Mory-Blog.CoreLayeer.csproj|solutionrelative:mory-blog.corelayeer\\sevices\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5BE37129-4B32-4C40-9B32-610B14712878}|Mory-Blog.Datalayer\\Mory-Blog.Datalayer.csproj|d:\\posheh darsi\\c#\\mory-blog\\mory-blog.datalayer\\migrations\\20241106102047_init4mori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BE37129-4B32-4C40-9B32-610B14712878}|Mory-Blog.Datalayer\\Mory-Blog.Datalayer.csproj|solutionrelative:mory-blog.datalayer\\migrations\\20241106102047_init4mori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1568FDB8-27C9-487C-8604-29D91D951D64}|Mory-Blog.Web\\Mory-Blog.Web.csproj|d:\\posheh darsi\\c#\\mory-blog\\mory-blog.web\\pages\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1568FDB8-27C9-487C-8604-29D91D951D64}|Mory-Blog.Web\\Mory-Blog.Web.csproj|solutionrelative:mory-blog.web\\pages\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5BE37129-4B32-4C40-9B32-610B14712878}|Mory-Blog.Datalayer\\Mory-Blog.Datalayer.csproj|d:\\posheh darsi\\c#\\mory-blog\\mory-blog.datalayer\\entities\\postcomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BE37129-4B32-4C40-9B32-610B14712878}|Mory-Blog.Datalayer\\Mory-Blog.Datalayer.csproj|solutionrelative:mory-blog.datalayer\\entities\\postcomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1568FDB8-27C9-487C-8604-29D91D951D64}|Mory-Blog.Web\\Mory-Blog.Web.csproj|d:\\posheh darsi\\c#\\mory-blog\\mory-blog.web\\pages\\auth\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1568FDB8-27C9-487C-8604-29D91D951D64}|Mory-Blog.Web\\Mory-Blog.Web.csproj|solutionrelative:mory-blog.web\\pages\\auth\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5BE37129-4B32-4C40-9B32-610B14712878}|Mory-Blog.Datalayer\\Mory-Blog.Datalayer.csproj|d:\\posheh darsi\\c#\\mory-blog\\mory-blog.datalayer\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BE37129-4B32-4C40-9B32-610B14712878}|Mory-Blog.Datalayer\\Mory-Blog.Datalayer.csproj|solutionrelative:mory-blog.datalayer\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1568FDB8-27C9-487C-8604-29D91D951D64}|Mory-Blog.Web\\Mory-Blog.Web.csproj|d:\\posheh darsi\\c#\\mory-blog\\mory-blog.web\\pages\\auth\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1568FDB8-27C9-487C-8604-29D91D951D64}|Mory-Blog.Web\\Mory-Blog.Web.csproj|solutionrelative:mory-blog.web\\pages\\auth\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5BE37129-4B32-4C40-9B32-610B14712878}|Mory-Blog.Datalayer\\Mory-Blog.Datalayer.csproj|d:\\posheh darsi\\c#\\mory-blog\\mory-blog.datalayer\\entities\\baseentity\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BE37129-4B32-4C40-9B32-610B14712878}|Mory-Blog.Datalayer\\Mory-Blog.Datalayer.csproj|solutionrelative:mory-blog.datalayer\\entities\\baseentity\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{31F77ACD-AE8A-4514-8315-64F0577F0517}|Mory-Blog.CoreLayeer\\Mory-Blog.CoreLayeer.csproj|d:\\posheh darsi\\c#\\mory-blog\\mory-blog.corelayeer\\sevices\\iuserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31F77ACD-AE8A-4514-8315-64F0577F0517}|Mory-Blog.CoreLayeer\\Mory-Blog.CoreLayeer.csproj|solutionrelative:mory-blog.corelayeer\\sevices\\iuserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1568FDB8-27C9-487C-8604-29D91D951D64}|Mory-Blog.Web\\Mory-Blog.Web.csproj|d:\\posheh darsi\\c#\\mory-blog\\mory-blog.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{1568FDB8-27C9-487C-8604-29D91D951D64}|Mory-Blog.Web\\Mory-Blog.Web.csproj|solutionrelative:mory-blog.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{1568FDB8-27C9-487C-8604-29D91D951D64}|Mory-Blog.Web\\Mory-Blog.Web.csproj|d:\\posheh darsi\\c#\\mory-blog\\mory-blog.web\\pages\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1568FDB8-27C9-487C-8604-29D91D951D64}|Mory-Blog.Web\\Mory-Blog.Web.csproj|solutionrelative:mory-blog.web\\pages\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BE37129-4B32-4C40-9B32-610B14712878}|Mory-Blog.Datalayer\\Mory-Blog.Datalayer.csproj|d:\\posheh darsi\\c#\\mory-blog\\mory-blog.datalayer\\mory-blog.datalayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5BE37129-4B32-4C40-9B32-610B14712878}|Mory-Blog.Datalayer\\Mory-Blog.Datalayer.csproj|solutionrelative:mory-blog.datalayer\\mory-blog.datalayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_H23LUMP/CodeYad_Blog/True/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1568FDB8-27C9-487C-8604-29D91D951D64}|Mory-Blog.Web\\Mory-Blog.Web.csproj|d:\\posheh darsi\\c#\\mory-blog\\mory-blog.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1568FDB8-27C9-487C-8604-29D91D951D64}|Mory-Blog.Web\\Mory-Blog.Web.csproj|solutionrelative:mory-blog.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{1568FDB8-27C9-487C-8604-29D91D951D64}|Mory-Blog.Web\\Mory-Blog.Web.csproj|d:\\posheh darsi\\c#\\mory-blog\\mory-blog.web\\pages\\shared\\_authlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1568FDB8-27C9-487C-8604-29D91D951D64}|Mory-Blog.Web\\Mory-Blog.Web.csproj|solutionrelative:mory-blog.web\\pages\\shared\\_authlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1568FDB8-27C9-487C-8604-29D91D951D64}|Mory-Blog.Web\\Mory-Blog.Web.csproj|d:\\posheh darsi\\c#\\mory-blog\\mory-blog.web\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1568FDB8-27C9-487C-8604-29D91D951D64}|Mory-Blog.Web\\Mory-Blog.Web.csproj|solutionrelative:mory-blog.web\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1568FDB8-27C9-487C-8604-29D91D951D64}|Mory-Blog.Web\\Mory-Blog.Web.csproj|d:\\posheh darsi\\c#\\mory-blog\\mory-blog.web\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1568FDB8-27C9-487C-8604-29D91D951D64}|Mory-Blog.Web\\Mory-Blog.Web.csproj|solutionrelative:mory-blog.web\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31F77ACD-AE8A-4514-8315-64F0577F0517}|Mory-Blog.CoreLayeer\\Mory-Blog.CoreLayeer.csproj|d:\\posheh darsi\\c#\\mory-blog\\mory-blog.corelayeer\\dtos\\users\\userregisterdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31F77ACD-AE8A-4514-8315-64F0577F0517}|Mory-Blog.CoreLayeer\\Mory-Blog.CoreLayeer.csproj|solutionrelative:mory-blog.corelayeer\\dtos\\users\\userregisterdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31F77ACD-AE8A-4514-8315-64F0577F0517}|Mory-Blog.CoreLayeer\\Mory-Blog.CoreLayeer.csproj|d:\\posheh darsi\\c#\\mory-blog\\mory-blog.corelayeer\\utilities\\encoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31F77ACD-AE8A-4514-8315-64F0577F0517}|Mory-Blog.CoreLayeer\\Mory-Blog.CoreLayeer.csproj|solutionrelative:mory-blog.corelayeer\\utilities\\encoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BE37129-4B32-4C40-9B32-610B14712878}|Mory-Blog.Datalayer\\Mory-Blog.Datalayer.csproj|d:\\posheh darsi\\c#\\mory-blog\\mory-blog.datalayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BE37129-4B32-4C40-9B32-610B14712878}|Mory-Blog.Datalayer\\Mory-Blog.Datalayer.csproj|solutionrelative:mory-blog.datalayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1568FDB8-27C9-487C-8604-29D91D951D64}|Mory-Blog.Web\\Mory-Blog.Web.csproj|d:\\posheh darsi\\c#\\mory-blog\\mory-blog.web\\mory-blog.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1568FDB8-27C9-487C-8604-29D91D951D64}|Mory-Blog.Web\\Mory-Blog.Web.csproj|solutionrelative:mory-blog.web\\mory-blog.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BE37129-4B32-4C40-9B32-610B14712878}|Mory-Blog.Datalayer\\Mory-Blog.Datalayer.csproj|d:\\posheh darsi\\c#\\mory-blog\\mory-blog.datalayer\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BE37129-4B32-4C40-9B32-610B14712878}|Mory-Blog.Datalayer\\Mory-Blog.Datalayer.csproj|solutionrelative:mory-blog.datalayer\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5BE37129-4B32-4C40-9B32-610B14712878}|Mory-Blog.Datalayer\\Mory-Blog.Datalayer.csproj|d:\\posheh darsi\\c#\\mory-blog\\mory-blog.datalayer\\context\\blogcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5BE37129-4B32-4C40-9B32-610B14712878}|Mory-Blog.Datalayer\\Mory-Blog.Datalayer.csproj|solutionrelative:mory-blog.datalayer\\context\\blogcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Morteza\\AppData\\Local\\Temp\\.vsdbgsrc\\d4c999a7a8d4f91ed1a866ee2885f4f1ebaa0801d4d8578d05f751df46ea8491\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BE37129-4B32-4C40-9B32-610B14712878}|Mory-Blog.Datalayer\\Mory-Blog.Datalayer.csproj|d:\\posheh darsi\\c#\\mory-blog\\mory-blog.datalayer\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BE37129-4B32-4C40-9B32-610B14712878}|Mory-Blog.Datalayer\\Mory-Blog.Datalayer.csproj|solutionrelative:mory-blog.datalayer\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BE37129-4B32-4C40-9B32-610B14712878}|Mory-Blog.Datalayer\\Mory-Blog.Datalayer.csproj|d:\\posheh darsi\\c#\\mory-blog\\mory-blog.datalayer\\entities\\postcomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BE37129-4B32-4C40-9B32-610B14712878}|Mory-Blog.Datalayer\\Mory-Blog.Datalayer.csproj|solutionrelative:mory-blog.datalayer\\entities\\postcomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BE37129-4B32-4C40-9B32-610B14712878}|Mory-Blog.Datalayer\\Mory-Blog.Datalayer.csproj|d:\\posheh darsi\\c#\\mory-blog\\mory-blog.datalayer\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BE37129-4B32-4C40-9B32-610B14712878}|Mory-Blog.Datalayer\\Mory-Blog.Datalayer.csproj|solutionrelative:mory-blog.datalayer\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BE37129-4B32-4C40-9B32-610B14712878}|Mory-Blog.Datalayer\\Mory-Blog.Datalayer.csproj|d:\\posheh darsi\\c#\\mory-blog\\mory-blog.datalayer\\entities\\baseentity\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BE37129-4B32-4C40-9B32-610B14712878}|Mory-Blog.Datalayer\\Mory-Blog.Datalayer.csproj|solutionrelative:mory-blog.datalayer\\entities\\baseentity\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BE37129-4B32-4C40-9B32-610B14712878}|Mory-Blog.Datalayer\\Mory-Blog.Datalayer.csproj|d:\\posheh darsi\\c#\\mory-blog\\mory-blog.datalayer\\migrations\\20241106102047_init4mori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BE37129-4B32-4C40-9B32-610B14712878}|Mory-Blog.Datalayer\\Mory-Blog.Datalayer.csproj|solutionrelative:mory-blog.datalayer\\migrations\\20241106102047_init4mori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1568FDB8-27C9-487C-8604-29D91D951D64}|Mory-Blog.Web\\Mory-Blog.Web.csproj|d:\\posheh darsi\\c#\\mory-blog\\mory-blog.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1568FDB8-27C9-487C-8604-29D91D951D64}|Mory-Blog.Web\\Mory-Blog.Web.csproj|solutionrelative:mory-blog.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.CoreLayeer\\DTOs\\Users\\LoginUserDTOs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mory-Blog.CoreLayeer\\DTOs\\Users\\LoginUserDTOs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,61 +112,270 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Post.cs",
-              "DocumentMoniker": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Datalayer\\Entities\\Post.cs",
-              "RelativeDocumentMoniker": "Mory-Blog.Datalayer\\Entities\\Post.cs",
-              "ToolTip": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Datalayer\\Entities\\Post.cs",
-              "RelativeToolTip": "Mory-Blog.Datalayer\\Entities\\Post.cs",
+              "DocumentIndex": 5,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\Pages\\Auth\\Register.cshtml",
+              "RelativeDocumentMoniker": "Mory-Blog.Web\\Pages\\Auth\\Register.cshtml",
+              "ToolTip": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\Pages\\Auth\\Register.cshtml",
+              "RelativeToolTip": "Mory-Blog.Web\\Pages\\Auth\\Register.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T11:18:16.845Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T10:21:06.128Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "20241106102047_init4mori.cs",
-              "DocumentMoniker": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Datalayer\\Migrations\\20241106102047_init4mori.cs",
-              "RelativeDocumentMoniker": "Mory-Blog.Datalayer\\Migrations\\20241106102047_init4mori.cs",
-              "ToolTip": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Datalayer\\Migrations\\20241106102047_init4mori.cs",
-              "RelativeToolTip": "Mory-Blog.Datalayer\\Migrations\\20241106102047_init4mori.cs",
-              "ViewState": "AQIAAGEAAAAAAAAAAAAQwHUAAAA+AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T10:20:48.091Z",
+              "DocumentIndex": 6,
+              "Title": "Mory-Blog.Datalayer",
+              "DocumentMoniker": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Datalayer\\Mory-Blog.Datalayer.csproj",
+              "RelativeDocumentMoniker": "Mory-Blog.Datalayer\\Mory-Blog.Datalayer.csproj",
+              "ToolTip": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Datalayer\\Mory-Blog.Datalayer.csproj",
+              "RelativeToolTip": "Mory-Blog.Datalayer\\Mory-Blog.Datalayer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-22T10:20:38.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "dbo.Users [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_H23LUMP/CodeYad_Blog/True/SqlTable/dbo.Users.sql",
+              "ToolTip": "dbo.Users [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-22T10:18:18.151Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Datalayer\\Entities\\BaseEntity\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "Mory-Blog.Datalayer\\Entities\\BaseEntity\\BaseEntity.cs",
-              "ToolTip": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Datalayer\\Entities\\BaseEntity\\BaseEntity.cs",
-              "RelativeToolTip": "Mory-Blog.Datalayer\\Entities\\BaseEntity\\BaseEntity.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAAABgAAAAmAAAA",
+              "Title": "IUserServices.cs",
+              "DocumentMoniker": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.CoreLayeer\\Sevices\\IUserServices.cs",
+              "RelativeDocumentMoniker": "Mory-Blog.CoreLayeer\\Sevices\\IUserServices.cs",
+              "ToolTip": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.CoreLayeer\\Sevices\\IUserServices.cs",
+              "RelativeToolTip": "Mory-Blog.CoreLayeer\\Sevices\\IUserServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T09:58:33.038Z"
+              "WhenOpened": "2024-11-20T09:34:27.748Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
+              "Title": "_AuthLayout.cshtml",
+              "DocumentMoniker": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\Pages\\Shared\\_AuthLayout.cshtml",
+              "RelativeDocumentMoniker": "Mory-Blog.Web\\Pages\\Shared\\_AuthLayout.cshtml",
+              "ToolTip": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\Pages\\Shared\\_AuthLayout.cshtml",
+              "RelativeToolTip": "Mory-Blog.Web\\Pages\\Shared\\_AuthLayout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-14T16:25:03.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LoginUserDTOs.cs",
+              "DocumentMoniker": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.CoreLayeer\\DTOs\\Users\\LoginUserDTOs.cs",
+              "RelativeDocumentMoniker": "Mory-Blog.CoreLayeer\\DTOs\\Users\\LoginUserDTOs.cs",
+              "ToolTip": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.CoreLayeer\\DTOs\\Users\\LoginUserDTOs.cs",
+              "RelativeToolTip": "Mory-Blog.CoreLayeer\\DTOs\\Users\\LoginUserDTOs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T04:57:21.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Encoder.cs",
+              "DocumentMoniker": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.CoreLayeer\\Utilities\\Encoder.cs",
+              "RelativeDocumentMoniker": "Mory-Blog.CoreLayeer\\Utilities\\Encoder.cs",
+              "ToolTip": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.CoreLayeer\\Utilities\\Encoder.cs",
+              "RelativeToolTip": "Mory-Blog.CoreLayeer\\Utilities\\Encoder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T04:59:31.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Userservice.cs",
+              "DocumentMoniker": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.CoreLayeer\\Sevices\\Userservice.cs",
+              "RelativeDocumentMoniker": "Mory-Blog.CoreLayeer\\Sevices\\Userservice.cs",
+              "ToolTip": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.CoreLayeer\\Sevices\\Userservice.cs",
+              "RelativeToolTip": "Mory-Blog.CoreLayeer\\Sevices\\Userservice.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAjwC8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T09:33:25.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\Pages\\Auth\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Mory-Blog.Web\\Pages\\Auth\\Register.cshtml.cs",
+              "ToolTip": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\Pages\\Auth\\Register.cshtml.cs",
+              "RelativeToolTip": "Mory-Blog.Web\\Pages\\Auth\\Register.cshtml.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAIwDEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T10:21:10.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\Pages\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "Mory-Blog.Web\\Pages\\Auth\\Login.cshtml",
+              "ToolTip": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\Pages\\Auth\\Login.cshtml",
+              "RelativeToolTip": "Mory-Blog.Web\\Pages\\Auth\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T10:24:50.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\Pages\\Auth\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "Mory-Blog.Web\\Pages\\Auth\\Login.cshtml.cs",
+              "ToolTip": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\Pages\\Auth\\Login.cshtml.cs",
+              "RelativeToolTip": "Mory-Blog.Web\\Pages\\Auth\\Login.cshtml.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAcwC0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T10:24:53.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\Program.cs",
               "RelativeDocumentMoniker": "Mory-Blog.Web\\Program.cs",
               "ToolTip": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\Program.cs",
               "RelativeToolTip": "Mory-Blog.Web\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAjwA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T16:32:48.387Z"
+              "WhenOpened": "2024-11-04T16:32:48.387Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Mory-Blog.Web\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Mory-Blog.Web\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T07:59:01.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserRegisterDTOs.cs",
+              "DocumentMoniker": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.CoreLayeer\\DTOs\\Users\\UserRegisterDTOs.cs",
+              "RelativeDocumentMoniker": "Mory-Blog.CoreLayeer\\DTOs\\Users\\UserRegisterDTOs.cs",
+              "ToolTip": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.CoreLayeer\\DTOs\\Users\\UserRegisterDTOs.cs",
+              "RelativeToolTip": "Mory-Blog.CoreLayeer\\DTOs\\Users\\UserRegisterDTOs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T08:10:23.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Datalayer\\Class1.cs",
+              "RelativeDocumentMoniker": "Mory-Blog.Datalayer\\Class1.cs",
+              "ToolTip": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Datalayer\\Class1.cs",
+              "RelativeToolTip": "Mory-Blog.Datalayer\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T04:55:41.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Mory-Blog.Web\\Pages\\Privacy.cshtml",
+              "ToolTip": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "Mory-Blog.Web\\Pages\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T05:05:11.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Mory-Blog.Web.csproj",
+              "DocumentMoniker": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\Mory-Blog.Web.csproj",
+              "RelativeDocumentMoniker": "Mory-Blog.Web\\Mory-Blog.Web.csproj",
+              "ToolTip": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\Mory-Blog.Web.csproj",
+              "RelativeToolTip": "Mory-Blog.Web\\Mory-Blog.Web.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-14T16:25:02.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Post.cs",
+              "DocumentMoniker": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Datalayer\\Entities\\Post.cs",
+              "RelativeDocumentMoniker": "Mory-Blog.Datalayer\\Entities\\Post.cs",
+              "ToolTip": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Datalayer\\Entities\\Post.cs",
+              "RelativeToolTip": "Mory-Blog.Datalayer\\Entities\\Post.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T11:18:16.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Datalayer\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "Mory-Blog.Datalayer\\Entities\\Category.cs",
+              "ToolTip": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Datalayer\\Entities\\Category.cs",
+              "RelativeToolTip": "Mory-Blog.Datalayer\\Entities\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T10:15:22.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Morteza\\AppData\\Local\\Temp\\.vsdbgsrc\\d4c999a7a8d4f91ed1a866ee2885f4f1ebaa0801d4d8578d05f751df46ea8491\\Program.cs",
+              "ToolTip": "C:\\Users\\Morteza\\AppData\\Local\\Temp\\.vsdbgsrc\\d4c999a7a8d4f91ed1a866ee2885f4f1ebaa0801d4d8578d05f751df46ea8491\\Program.cs [Read Only]",
+              "ViewState": "AQIAABQAAAAAAAAAAAAjwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T16:23:47.839Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Datalayer\\Entities\\BaseEntity\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Mory-Blog.Datalayer\\Entities\\BaseEntity\\BaseEntity.cs",
+              "ToolTip": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Datalayer\\Entities\\BaseEntity\\BaseEntity.cs",
+              "RelativeToolTip": "Mory-Blog.Datalayer\\Entities\\BaseEntity\\BaseEntity.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABMAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T09:58:33.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Web\\appsettings.json",
               "RelativeDocumentMoniker": "Mory-Blog.Web\\appsettings.json",
@@ -108,39 +387,51 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 16,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Datalayer\\Entities\\User.cs",
               "RelativeDocumentMoniker": "Mory-Blog.Datalayer\\Entities\\User.cs",
               "ToolTip": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Datalayer\\Entities\\User.cs",
               "RelativeToolTip": "Mory-Blog.Datalayer\\Entities\\User.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAA3wCEAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-04T15:23:02.155Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 17,
               "Title": "BlogContext.cs",
               "DocumentMoniker": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Datalayer\\Context\\BlogContext.cs",
               "RelativeDocumentMoniker": "Mory-Blog.Datalayer\\Context\\BlogContext.cs",
               "ToolTip": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Datalayer\\Context\\BlogContext.cs",
               "RelativeToolTip": "Mory-Blog.Datalayer\\Context\\BlogContext.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAAABIAAAAuAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABYAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-04T15:22:31.977Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 20,
               "Title": "PostComment.cs",
               "DocumentMoniker": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Datalayer\\Entities\\PostComment.cs",
               "RelativeDocumentMoniker": "Mory-Blog.Datalayer\\Entities\\PostComment.cs",
               "ToolTip": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Datalayer\\Entities\\PostComment.cs",
               "RelativeToolTip": "Mory-Blog.Datalayer\\Entities\\PostComment.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAACcAAAAnAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-04T15:20:19.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20241106102047_init4mori.cs",
+              "DocumentMoniker": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Datalayer\\Migrations\\20241106102047_init4mori.cs",
+              "RelativeDocumentMoniker": "Mory-Blog.Datalayer\\Migrations\\20241106102047_init4mori.cs",
+              "ToolTip": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Datalayer\\Migrations\\20241106102047_init4mori.cs",
+              "RelativeToolTip": "Mory-Blog.Datalayer\\Migrations\\20241106102047_init4mori.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAQwHUAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T10:20:48.091Z"
             }
           ]
         }

@@ -11,12 +11,9 @@ namespace CodeYad_Blog.DataLayer.Entities
 {
     public class User : BaseEntity
     {
-        //[Key]
-        //public int Id { get; set; }
-        [Required]
+        
         public string UserName { get; set; }
         public string FullName { get; set; }
-        [Required]
         public string Password { get; set; }
         public UserRole Role { get; set; }
 
@@ -32,6 +29,8 @@ namespace CodeYad_Blog.DataLayer.Entities
         Writer
     }
 
+    #region relation
+
     public class UserConfigurations : BaseEntityConfigurations<User>
     {
         public override void Configure(EntityTypeBuilder<User> builder)
@@ -39,4 +38,6 @@ namespace CodeYad_Blog.DataLayer.Entities
             base.Configure(builder);
         }
     }
+
+    #endregion
 }

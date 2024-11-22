@@ -185,6 +185,9 @@
             "projectReferences": {
               "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.CoreLayeer\\Mory-Blog.CoreLayeer.csproj": {
                 "projectPath": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.CoreLayeer\\Mory-Blog.CoreLayeer.csproj"
+              },
+              "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Datalayer\\Mory-Blog.Datalayer.csproj": {
+                "projectPath": "D:\\posheh darsi\\c#\\Mory-Blog\\Mory-Blog.Datalayer\\Mory-Blog.Datalayer.csproj"
               }
             }
           }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mory-Blog.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f4bc7512f3bc9061149b836667af6004bd742a7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a7614fffaa078c1f97238eee2fa797124fda29f8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mory-Blog.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mory-Blog.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

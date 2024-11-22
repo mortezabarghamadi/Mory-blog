@@ -13,19 +13,19 @@ namespace CodeYad_Blog.DataLayer.Entities
 {
     public class PostComment : BaseEntity
     {
-        //[Key]
-        //public int Id { get; set; }
+        
         public int UserId { get; set; }
         public int PostId { get; set; }
-        [Required]
         public string Text { get; set; }
 
-        //[ForeignKey("PostId")]
+        
         public Post Post { get; set; }
 
-        //[ForeignKey("UserId")]
+        
         public User User { get; set; }
     }
+
+    #region relation
 
     public class PostCommentConfigurations : BaseEntityConfigurations<PostComment>
     {
@@ -43,5 +43,7 @@ namespace CodeYad_Blog.DataLayer.Entities
                 .OnDelete(DeleteBehavior.NoAction);
         }
     }
+
+    #endregion
 
 }
